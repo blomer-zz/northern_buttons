@@ -1,5 +1,25 @@
 # northern_buttons
 
+This is an app I made for the business I work for - Northern Woods Distributing, a.k.a. Shelton Pizza
+website: https://sheltonfoods.com/
+
+As a "sales manager" for this businnes, I was tasked with delivering frozen pizzas and other foods to grocery and convenience stores etc.
+I needed a way to:
+* manage all my customers
+  - address
+  - phone number
+  - manager name
+  - sales history
+  - etc.
+* get directions
+* create invoices
+* keep track of routes
+* etc.
+
+
+
+**** original comments below ****
+
 A new Flutter project.
 
 ## Getting Started
