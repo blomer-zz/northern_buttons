@@ -1,0 +1,99 @@
+id,customer_id,route_id,store_name,day_of_week,stop_order
+,,Duluth,Stokkes Adolph,Friday,2
+,,Duluth,Super One Two Harbors,Friday,20
+,,Duluth,Lucky Seven Proctor,Friday,3
+,,Duluth,Super One West Duluth,Friday,4
+,,WI,Super One Superior,Monday,5
+,,WI,Average Joes,Monday,7
+,,WI,Korner Store Superior,Monday,10
+,,Duluth,Duluth Tap Exchange,Friday,11
+,,Duluth,Korner Store Lincoln Park,Friday,12
+,,Duluth,Spurs On First,Friday,13
+,,Duluth,Speedway 4th Street,Friday,14
+,,Duluth,Short Stop Central Ent,Friday,15
+,,Duluth,Short Stop 9th Street,Friday,16
+,,Duluth,Super One Kenwood,Friday,16
+,,Duluth,Stokkes Lakewood,Friday,19
+,,North Loop,Caywood Saginaw,Tuesday,1
+,,North Loop,Floodwood Grocery,Tuesday,2
+,,North Loop,Speedway Floodwood,Tuesday,3
+,,North Loop,Lucky Seven Floodwood,Tuesday,4
+,,North Loop,Lucky Seven Swan River,Tuesday,5
+,,North Loop,Super One Grand Rapids North,Tuesday,6
+,,North Loop,Lucky Seven Grand Rapids West,Tuesday,7
+,,North Loop,Super One Grand Rapids,Tuesday,8
+,,North Loop,Lucky Seven Grand Rapids East,Tuesday,9
+,,North Loop,Lucky Seven Nashwauk,Tuesday,10
+,,North Loop,Lucky Seven Hibbing A1,Tuesday,13
+,,North Loop,Lucky Seven Hibbing Y,Tuesday,11
+,,North Loop,Super One Hibbing,Tuesday,12
+,,North Loop,Korner Store Chisholm,Tuesday,14
+,,North Loop,Lucky Seven Chisholm,Tuesday,15
+,,North Straight,Short Stop Townline,Wednesday,22
+,,North Straight,Speedway Cotton,Wednesday,23
+,,North Straight,Dawghouse Canyon,Wednesday,24
+,,North Straight,Twig Store,Wednesday,26
+,,North Straight,Short Stop Virginia,Wednesday,2
+,,North Straight,"Lucky Seven Virginia, Northside",Wednesday,4
+,,North Loop,Short Stop Cook,Tuesday,5
+,,North Loop,Lucky Seven Cook,Tuesday,6
+,,North Loop,The Y Store,Tuesday,7
+,,North Loop,Lucky Seven Ely,Tuesday,8
+,,North Loop,Short Stop Ely Voyageur,Tuesday,9
+,,North Loop,Lucky Seven Aurora,Tuesday,10
+,,North Loop,Lucky Seven Hoyt Lakes,Tuesday,11
+,,North Loop,Lucky Seven Biwabik,Tuesday,12
+,,West,Korner Store Cloquet,Thursday,1
+,,West,Lucky Seven Cloquet,Thursday,2
+,,West,Super One Cloquet,Thursday,3
+,,West,Cromwell Store VP,Thursday,5
+,,West,Ukura's Big Dollar,Thursday,6
+,,West,KJ's Fresh Market Moose Lake,Thursday,7
+,,West,Lucky Seven Moose Lake,Thursday,8
+,,West,Korner Store Sturgeon Lake,Thursday,9
+,,West,Lucky Seven Barnum,Thursday,10
+,,West,Caywood Carlton,Thursday,12
+,,West,Third Base,Thursday,11
+,,WI,Chris's Food Center Sandstone,Monday,13
+,,West,Caywood Esko,Thursday,13
+,,Duluth,Hermantown Hockey Arena,Friday,2
+,,Duluth,Super One Miller Hill,Friday,4
+,,Duluth,Proctor Hockey Arena,Friday,5
+,,Duluth,Korner Store Gary North,Friday,6
+,,Duluth,Korner Store Gary South,Friday,7
+,,Duluth,Speedway Morgan Park,Friday,8
+,,Duluth,Reef,Friday,10
+,,WI,Lucky Seven Woodville,Monday,2
+,,WI,Lucky Seven Osceola,Monday,3
+,,WI,Lucky Seven Balsam Lake,Monday,4
+,,WI,Lucky Seven Luck,Monday,5
+,,WI,Lucky Seven Cushing,Monday,6
+,,WI,Lucky Seven Grantsburg,Monday,7
+,,WI,Lucky Seven Webster,Monday,8
+,,WI,Lucky Seven Minong,Monday,9
+,,North Straight,Lucky Seven International Falls,Wednesday,8
+,,North Straight,"Lucky Seven Virginia, Hoover Rd",Wednesday,9
+,,North Straight,Short Stop Mt Iron,Wednesday,6
+,,North Straight,Melrude Pub,Wednesday,1
+,,Duluth,Super One Pike Lake,Friday,2
+,,Duluth,American Legion Post,Friday,7
+,,WI,Lucky Seven Hinckley,Monday,1
+,,North Straight,Eggy's Bar Red Garter Lounge,Wednesday,21
+,,North Straight,Short Stop Eveleth,Wednesday,20
+,,North Straight,Ely Lake Short Stop,Wednesday,13
+,,North Straight,Short Stop Express Virginia,Wednesday,5
+,,Duluth,Woodland Short Stop,Friday,15
+,,Duluth,Speedway Hermantown,Friday,1
+,,Duluth,Super One Lakeside,Friday,12
+,,Duluth,Super One Plaza,Friday,12
+,,North Straight,Super One Virginia,Wednesday,19
+,,North Straight,Super One Virginia North,Wednesday,18
+,,North Loop,Jubilee Chisholm,Tuesday,16
+,,WI,Super One East Superior,Monday,9
+,,Duluth,Speedway University,Friday,17
+,,Duluth,Powerhouse Bar,Friday,1
+,,Duluth,Dale Hermantown Football coach,Friday,6
+,,Duluth,Pike Lake Golf Course,Friday,16
+,,Duluth,Nemadji Golf Course,Friday,11
+,,Duluth,Heritage Hockey Arena,Friday,1
+,,North Loop,Wild Experience Hunting Preserve,Tuesday,1
