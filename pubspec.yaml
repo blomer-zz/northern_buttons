@@ -73,6 +73,9 @@ flutter:
     - lib/assets/customers.csv
     - lib/assets/CustomerRoutes.csv
     - lib/assets/images/
+    - lib/assets/invoice_signatures/
+    - lib/assets/InvoicesSept25Mar26.csv
+    - lib/assets/TransactionsSep25Mar26.csv
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

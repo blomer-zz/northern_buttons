@@ -20,6 +20,10 @@ void main() async {
   // On first launch this also creates the tables and seeds data from the CSVs.
   await DatabaseHelper.instance.database;
 
+  // Seed historical invoices outside the DB transaction so any error here
+  // doesn't roll back the schema migration. Skips automatically if already done.
+  await DatabaseHelper.instance.seedHistoricalInvoices();
+
   runApp(const MyApp());
 }
 
